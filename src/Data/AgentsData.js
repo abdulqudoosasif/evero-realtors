@@ -12,6 +12,7 @@ const agents = [
 		image: "https://images.pexels.com/photos/32976/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1200",
 	},
 	{
+		
 		id: 3,
 		title: "Building Inspector",
 		name: "Carol Instructions",
